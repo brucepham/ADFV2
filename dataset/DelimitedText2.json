@@ -5,6 +5,9 @@
 			"referenceName": "storageacctv2processed",
 			"type": "LinkedServiceReference"
 		},
+		"folder": {
+			"name": "folder1"
+		},
 		"annotations": [],
 		"type": "DelimitedText",
 		"typeProperties": {
